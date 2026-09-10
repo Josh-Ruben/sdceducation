@@ -1,0 +1,60 @@
+{
+  "version": "2026-09-09",
+  "last_verified": "2026-09-09",
+  "identity": {
+    "name": "Shree Devi Education Trust / Shree Devi Group of Colleges",
+    "established": "1992",
+    "location": "MG Road, Mangalore – 575003, Karnataka, India",
+    "email": "info@sdc.ac.in",
+    "phones": ["0824-2456501", "0824-2456511", "0824-2457937"],
+    "mobile": ["+91 91411 81260", "+91 91411 81261"]
+  },
+  "sources": [
+    {"title":"SDC official website","url":"https://sdc.ac.in/"},
+    {"title":"SDC About","url":"https://sdc.ac.in/aboutus.html"},
+    {"title":"SDC admissions","url":"https://college.sdc.ac.in/admission/"},
+    {"title":"SDC contact","url":"https://college.sdc.ac.in/contact-us/"},
+    {"title":"Shree Devi Institute of Technology","url":"https://sdit.ac.in/about/"}
+  ],
+  "institutions": [
+    {"name":"Shree Devi Institute of Technology","programmes":["B.E.","M.Tech.","M.B.A.","M.C.A."],"site":"https://sdit.ac.in/"},
+    {"name":"Shree Devi College of Allied Health Sciences","programmes":["B.Sc. Medical Laboratory Technology","B.Sc. Medical Imaging Technology","B.Sc. Anaesthesia & Operation Theatre Technology","B.Sc. Respiratory Care Technology","B.Sc. Renal Dialysis Technology"]},
+    {"name":"Shree Devi College of Hotel Management","programmes":["B.H.S. Hotel Management","B.H.S. Aviation & Hospitality Management","B.Sc. Food, Nutrition & Dietetics","B.Sc. Food Technology"]},
+    {"name":"Shree Devi College of Physiotherapy","programmes":["B.P.T.","M.P.T."]},
+    {"name":"Shree Devi College of Nursing","programmes":["B.Sc. Nursing","M.Sc. Nursing"]},
+    {"name":"Shree Devi Institute of Social Work","programmes":["B.S.W.","M.S.W."]},
+    {"name":"Shree Devi College of Fashion Design","programmes":["B.Sc. Fashion Design"]},
+    {"name":"Shree Devi School of Nursing","programmes":["G.N.M."]},
+    {"name":"Shree Devi College of Interior Design","programmes":["B.Sc. Interior Design & Decoration"]},
+    {"name":"Shree Devi College of Pharmacy","programmes":["B.Pharm.","M.Pharm.","Pharm.D."]},
+    {"name":"Shree Devi College of Information Science","programmes":["B.C.A. (AI, Big Data & Cyber Security)","B.C.A. (Aviation & Hospitality Management)","B.C.A. (Computer Applications)"]},
+    {"name":"Shree Devi College","programmes":["B.B.A./B.Com. with Aviation & Hospitality Management","B.B.A./B.Com. with Supply Chain & Logistics Management","B.B.A./B.Com. with Data Analytics, AI & Cyber Security","B.Com. Commerce","B.B.A. Business Administration"]}
+  ],
+  "facilities": ["classrooms","laboratories","seminar hall","open-air theatre","sports and games","canteen","cafeteria","recreational area","hostel","transportation","library"],
+  "events": ["Shree Devi Sambhram","Celebration of Cultural Diversity","Annual Sports Meet","Graduation Day","Orientation Program","Farewell Day","Annual Day","Alumni Meet"],
+  "verified_course_details": [
+    {
+      "programme":"BBA",
+      "duration":"3 years / 6 semesters",
+      "affiliation":"Mangalore University",
+      "eligibility":"Any PUC / 10+2 equivalent in Science, Commerce or Arts, subject to the current official course conditions",
+      "source":"https://college.sdc.ac.in/"
+    },
+    {
+      "programme":"B.Sc. Anaesthesia & Operation Theatre Technology",
+      "duration":"4 years including one-year compulsory full-time internship",
+      "affiliation":"Rajiv Gandhi University of Health Sciences, Bangalore",
+      "eligibility":"10+2 with English and Physics/Chemistry/Biology; minimum age 17 by December 31 of the admission year",
+      "source":"https://college.sdc.ac.in/"
+    },
+    {
+      "programme":"Shree Devi Institute of Technology",
+      "established":"2006",
+      "affiliation":"Visvesvaraya Technological University",
+      "recognition":"AICTE",
+      "location":"Airport Road, Kenjar, Mangalore – 574142",
+      "source":"https://sdit.ac.in/about/"
+    }
+  ],
+  "source_policy": "This is a curated verified knowledge layer. Update it from official SDC sources before publishing new facts."
+}
