@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josh-ruben.github.io/sdeducation/sitemap.xml
