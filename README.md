@@ -1,4 +1,4 @@
-# Shree Devi Group of Colleges — MIT-style institutional website
+**This website is not currently working properly bcz i stopped working on them after my college techbot event** # Shree Devi Group of Colleges — MIT-style institutional website
 
 Static GitHub Pages frontend for SDC, with a separate secure SDC AI backend.
 
